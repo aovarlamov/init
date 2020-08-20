@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    06                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kbethel <kbethel@student.42.fr>            +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/02/06 17:34:17 by kbethel           #+#    #+#              #
+#    Updated: 2020/02/06 19:55:43 by kbethel          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#!/bin/bash
+echo "# /etc/resolv.conf - complete path of the file that contains the IP address of the DNS server you’re using #"
+echo "# Below is its content #"
+echo
+cat /etc/resolv.conf

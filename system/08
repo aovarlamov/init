@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    08                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kbethel <kbethel@student.42.fr>            +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/02/12 17:09:40 by kbethel           #+#    #+#              #
+#    Updated: 2020/02/12 17:20:56 by kbethel          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+To authenticate using SSH keys, a user must have an SSH key pair on their local 
+computer. On the remote server, the public key must be copied to a file within 
+the user’s home directory at ~/.ssh/authorized_keys. This file contains a list 
+of public keys, one-per-line, that are authorized to log into this account.

@@ -1,0 +1,14 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    23                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kbethel <kbethel@student.42.fr>            +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/02/12 18:03:44 by kbethel           #+#    #+#              #
+#    Updated: 2020/02/12 18:10:19 by kbethel          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+When you use the "graphical interface" you just need to enter your login and password.
+When you use the "ssh session" you need write ssh [username]@[hostname]
